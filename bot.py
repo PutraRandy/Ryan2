@@ -7,7 +7,7 @@ import time,random,sys,json,codecs,threading,glob,re,ast,os,subprocess,requests
 
 cl = LINETCR.LINE()
 #cl.login(qr=True)
-cl.login(token="Eo0sIp1wcWmSmGspR9Ja.hZwh5IdXSacGZzoHucpP2G.0T6LxdPEDOANAwID4pli4ONDeOsPVoaQoUbtWYPMlKs=")
+cl.login(token="
 cl.loginResult()
 print "===[Login Success]==="
 
